@@ -1,0 +1,11 @@
+cara menjalankkan program
+1. buat file baru di drive D berikan nama to do list kemudian masukkan semua file yang di download di GitHub ke dalam file tersebut
+2. pergi ke command prompt dan sesuaikan lokasi file yang dimasukkan ke dalam, misalnya D:\to do list sederhana>
+3. setelah itu ketik pada cmd 
+
+D:
+cd "to do list sederhana"
+javac Task.java TodoApp.java
+java TodoApp
+
+4. klik enter dan program siap di jalankan
